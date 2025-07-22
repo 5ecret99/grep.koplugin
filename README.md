@@ -38,7 +38,7 @@ This Lua module is a **KOReader plugin** designed for searching text within a la
 
 ## Usage
 
-1. Add the `grep_search` module to your KOReader plugins directory.
+1. Add the `grep.koplugin` module to your KOReader plugins directory.
 2. When you are in KOReader's file explorer, you can trigger it under the **Search** menu as `grep_search`.
 
 ## Notes
